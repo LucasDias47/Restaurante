@@ -11,10 +11,10 @@ API REST desenvolvida com Java + Spring Boot para gerenciamento de pedidos, prat
 - Git & GitHub
 
 ## 🔧 Funcionalidades
-- Cadastro de pratos
+
 - Registro de pedidos
 - Cadastro de clientes
-- Consulta de cardápio e histórico
+- Consulta de clientes
 
 ## ▶️ Como executar
 1. Clone este repositório
